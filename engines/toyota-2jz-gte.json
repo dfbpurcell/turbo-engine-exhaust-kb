@@ -1,0 +1,27 @@
+{
+  "engine": "Toyota 2JZ-GTE",
+  "variants": ["2JZ-GTE (non-VVTi)", "2JZ-GTE VVTi", "2JZ-GE (NA, popular turbo conversion)"],
+  "configuration": "Inline-6, DOHC, 24-valve",
+  "displacement_cc": 2997,
+  "block": "Cast iron, closed deck, 7 main bearings",
+  "popular_for": "Extremely high boost capability on stock internals (500–1000+ hp documented)",
+  "exhaust": {
+    "ports": 6,
+    "port_shape": "Rectangular / D-shaped (GTE); more rounded on GE",
+    "approx_port_dimensions_mm": "32 x 42 (common aftermarket flange reference)",
+    "stud_or_bolt_count": 12,
+    "stud_thread": "M10 x 1.25",
+    "stud_notes": "Factory studs; shorter aftermarket studs often used for single-turbo manifolds. 2JZ-GE uses 8 studs on some configurations. Protrusion of short studs ~22 mm from head flange.",
+    "flange_style": "Single continuous flange along head",
+    "common_aftermarket_turbo_flanges": ["T3", "T4", "V-band (internal ~56 mm common)"],
+    "gasket_notes": "OEM multi-layer or aftermarket MLS; port matching critical for high power",
+    "useful_checks": [
+      "Count 6 exhaust ports",
+      "12 stud holes on GTE",
+      "Port size ~32x42 mm",
+      "M10 studs",
+      "Overall flange length consistent with I6 spacing"
+    ]
+  },
+  "sources_notes": "Aftermarket manifold makers (TurboWorks, Vibrant, etc.) list 32x42 mm ports. Stud kits widely available as M10x1.25. Cross-check physical head for exact spacing."
+}

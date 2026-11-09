@@ -1,0 +1,22 @@
+{
+  "engine": "Mitsubishi 4G63T",
+  "variants": ["4G63 (Evo I–IX, DSM, etc.)"],
+  "configuration": "Inline-4, DOHC",
+  "displacement_cc": 1997,
+  "popular_for": "Rally legend, extremely strong under boost, huge aftermarket",
+  "exhaust": {
+    "ports": 4,
+    "port_shape": "Oval / rectangular",
+    "approx_port_dimensions_mm": "Common aftermarket flanges sized for 1.5–2.0\" primaries",
+    "stud_or_bolt_count": 8–10 typical",
+    "stud_thread": "M8 or M10 depending on generation/head",
+    "flange_style": "Continuous 4-port flange",
+    "common_aftermarket_turbo_flanges": ["T25", "T3", "T4", "V-band"],
+    "useful_checks": [
+      "4 exhaust ports",
+      "I4 bolt pattern spacing",
+      "Match to known 4G63 flange drawings"
+    ]
+  },
+  "sources_notes": "Very well supported; many flange and manifold makers list exact patterns."
+}

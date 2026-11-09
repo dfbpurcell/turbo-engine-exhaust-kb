@@ -1,0 +1,25 @@
+{
+  "engine": "Nissan RB26DETT",
+  "variants": ["RB26DETT (R32/R33/R34 GT-R)"],
+  "configuration": "Inline-6, DOHC, 24-valve",
+  "displacement_cc": 2568,
+  "block": "Cast iron",
+  "popular_for": "Factory twin-turbo GT-R engine, excellent high-rpm power, massive aftermarket",
+  "exhaust": {
+    "ports": 6,
+    "port_shape": "Round / slightly oval",
+    "approx_port_dimensions_mm": "~36–42 mm OD tube common; flange ports sized for ~36.5 mm ID / 42 mm OD pipe in many aftermarket flanges",
+    "stud_or_bolt_count": 12,
+    "stud_thread": "M8 x 1.25 (unique vs other RB engines which often use M10)",
+    "stud_notes": "RB26 specifically uses M8 studs. Titanium kits popular. Confirm length for aftermarket manifolds.",
+    "flange_style": "Single continuous flange",
+    "common_aftermarket_turbo_flanges": ["T3", "T4", "V-band"],
+    "useful_checks": [
+      "6 ports",
+      "12 M8 stud holes",
+      "M8 thread (distinguishes from RB20/25 in some cases)",
+      "Port size suitable for 41–42 mm primary tubing"
+    ]
+  },
+  "sources_notes": "Titanium stud kits explicitly list M8x1.25 for RB26. Flange makers specify pipe sizes around 36.5/42 mm."
+}

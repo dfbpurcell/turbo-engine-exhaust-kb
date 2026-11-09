@@ -1,0 +1,22 @@
+{
+  "engine": "Nissan RB20 / RB25 series",
+  "variants": ["RB20E", "RB20DE", "RB20DET", "RB25DE", "RB25DET", "RB25DET NEO"],
+  "configuration": "Inline-6",
+  "displacement_cc": "1998 (RB20) / 2498 (RB25)",
+  "popular_for": "Common turbo platforms, especially RB20DET and RB25DET",
+  "exhaust": {
+    "ports": 6,
+    "port_shape": "Round / oval",
+    "approx_port_dimensions_mm": "Similar to RB26; many aftermarket flanges shared or close between RB20DET/RB25DET",
+    "stud_or_bolt_count": 12 (typical),
+    "stud_thread": "M10 x 1.25 (most RB20/25; contrast with RB26 M8)",
+    "flange_style": "Continuous flange",
+    "common_aftermarket_turbo_flanges": ["T3", "V-band"],
+    "useful_checks": [
+      "6 ports",
+      "Typically M10 studs (vs M8 on RB26)",
+      "Flange length and port spacing match RB family"
+    ]
+  },
+  "sources_notes": "Aftermarket flanges often listed for RB20DET/RB25DET together. Confirm stud size on specific head."
+}

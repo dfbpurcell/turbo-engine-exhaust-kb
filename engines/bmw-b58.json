@@ -1,0 +1,20 @@
+{
+  "engine": "BMW B58",
+  "variants": ["B58B30 (Gen1)", "B58B30 (Gen2 / TU)", "S58"],
+  "configuration": "Inline-6, single twin-scroll turbo (integrated exhaust manifold on some variants)",
+  "displacement_cc": 2998,
+  "popular_for": "Modern high-power platform, excellent tuning potential, used in Supra A90 etc.",
+  "exhaust": {
+    "ports": 6 (or effectively 2–3 outlets on integrated-manifold versions),
+    "port_shape": "Round",
+    "notes": "Some B58 variants (esp. later / Supra) have the exhaust manifold cast into the head with fewer external outlets feeding the turbo directly. Earlier versions have more traditional external ports/manifolds.",
+    "stud_or_bolt_count": "Varies; flanges use multiple fasteners, often with specific chamfer/wedge design",
+    "flange_style": "Custom laser-cut flanges available; port sizing depends on whether stubs are used",
+    "useful_checks": [
+      "Confirm if head has integrated manifold (fewer external ports) or traditional 6-port",
+      "Match bolt pattern and chamfers to known B58 flanges",
+      "Port diameter consistent with aftermarket primary tubing"
+    ]
+  },
+  "sources_notes": "Aftermarket B58 head flanges exist (Walton, Lamberts, etc.). Integrated vs non-integrated is a key differentiator for autodetection."
+}

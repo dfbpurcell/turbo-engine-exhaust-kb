@@ -1,0 +1,23 @@
+{
+  "engine": "BMW N54",
+  "variants": ["N54B30"],
+  "configuration": "Inline-6, twin-turbo from factory",
+  "displacement_cc": 2979,
+  "popular_for": "Early modern twin-turbo six, huge aftermarket single-turbo conversions",
+  "exhaust": {
+    "ports": 6,
+    "port_shape": "Round",
+    "approx_port_dimensions_mm": "Suited to 38 mm OD tube (common flange reference for N54/N55)",
+    "stud_or_bolt_count": 16 (or 12–16 depending on manifold style; factory uses multiple fasteners)",
+    "stud_thread": "M7 (common OEM stud size reported for N54 exhaust manifold studs)",
+    "flange_style": "Continuous or split depending on OEM vs aftermarket; OEM has integrated turbo plumbing",
+    "common_aftermarket": "Single T3 or larger manifolds popular; flanges available for 38 mm primaries",
+    "useful_checks": [
+      "6 round ports",
+      "Port size matching ~38 mm tube",
+      "M7 or similar small studs on OEM",
+      "Overall length for I6 BMW pattern"
+    ]
+  },
+  "sources_notes": "Aftermarket flanges specify 38 mm OD tube compatibility. Stud kits list M7 x 39 mm ASA bolts/studs."
+}

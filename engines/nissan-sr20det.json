@@ -1,0 +1,19 @@
+{
+  "engine": "Nissan SR20DET",
+  "variants": ["SR20DET (S13/S14/S15, various)", "SR20VE etc. for conversion"],
+  "configuration": "Inline-4",
+  "displacement_cc": 1998,
+  "popular_for": "Compact, responsive, massive S-chassis support",
+  "exhaust": {
+    "ports": 4,
+    "port_shape": "Round / oval",
+    "stud_or_bolt_count": 8 typical",
+    "common_aftermarket_turbo_flanges": ["T25", "T28", "T3", "V-band"],
+    "useful_checks": [
+      "4 ports",
+      "Compact I4 flange length",
+      "Common T25/T28 OEM-style turbo flange on many variants"
+    ]
+  },
+  "sources_notes": "OEM turbo flange is often T25-style on many SR20DET applications."
+}
